@@ -1,7 +1,7 @@
 # Machine Learning Journey
 
 ## Definition
-*Machine Learning* is the ability
+*Machine Learning* is the ability to have computers do the learning without specifically being programmed.  
 
 *Supervised Learning* is the ML task of taking labeled training datasets to make a prediction.  
 
